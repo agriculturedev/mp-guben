@@ -21,3 +21,13 @@ The Masterportal is a project by [Geowerkstatt Hamburg](https://www.hamburg.de/g
 * [Community board (Developer forum and issue tracker)](https://trello.com/c/qajdXkMa/110-willkommen)
 
 [![Sauce Test Status](https://app.eu-central-1.saucelabs.com/buildstatus/geodatenanwendungen_gv.hamburg.de)](https://app.eu-central-1.saucelabs.com/builds/dfd7abc54af1493091fbeef1b6b48ca6)
+
+
+## Configuration
+- **story.json**: This file contains the data for the story, including the title, author, and chapters. It also includes an array of steps, which define the individual pages of the story. The htmlFile property of each step corresponds to an HTML file in the story folder.
+
+- **index.html**: This is the main HTML file for the project. It includes the Vue.js library and the story.js script.
+
+- **story.js**: This file contains the Vue.js component that renders the story. It reads the data from story.json and renders each step as a separate component.
+
+- **step_1-1.html, step_2-1.html, etc.**: These are the HTML files that correspond to each step in the story. They contain the content and layout for each step.
