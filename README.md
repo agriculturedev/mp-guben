@@ -31,3 +31,6 @@ The Masterportal is a project by [Geowerkstatt Hamburg](https://www.hamburg.de/g
 - **story.js**: This file contains the Vue.js component that renders the story. It reads the data from story.json and renders each step as a separate component.
 
 - **step_1-1.html, step_2-1.html, etc.**: These are the HTML files that correspond to each step in the story. They contain the content and layout for each step.
+
+### More specific configuration
+Please refer to the [Official documentation](https://bitbucket.org/geowerkstatt-hamburg/masterportal/src/dev/doc/doc.md#markdown-header-portal-specific-configuration-files)
