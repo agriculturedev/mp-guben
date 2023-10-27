@@ -138,13 +138,6 @@
           },
           "saveSelection": {
             "name": "Auswahl speichern"
-          },
-          "dataNarrator": {
-            "name": "translate#additional:modules.tools.dataNarrator.title",
-            "glyphicon": "glyphicon-book",
-            "active": true,
-            "backendURL": "http://localhost:3000/",
-            "autoplay": true
           }
         }
       },

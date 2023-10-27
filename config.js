@@ -1,5 +1,5 @@
 const Config = {
-    addons: ["dataNarrator"],
+    addons: [""],
     vuetify: "addons/dipasAddons/dataNarrator/vuetify",
     wfsImgPath: "./resources/img/",
     namedProjections: [
