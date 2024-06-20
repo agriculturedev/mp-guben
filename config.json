@@ -185,11 +185,7 @@
       "totalView": {},
       "button3d": true
     },
-    "portalTitle": {
-      "title": "Guben Cockpit",
-      "logo": "./resources/img/smart-city-guben-logo-1.png",
-      "link": "https://smart.guben.de"
-    },
+    "portalTitle": {},
     "layerInformation": {}
   },
   "Themenconfig": {
